@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="logoPictureBox.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="textBoxDescription.Text" xml:space="preserve">
+    <value>The project is about the management of petrol pump system which is implemented in c#.net. The management of the petrol pump is done by the manager manually which is a difficult process. The Project deals with the development of the computerized system for maintaining the regular records. The Project consists of various forms and developed with the help of the Visual Basic Language Programming and is a standalone application. 
+                 The system has a module called Operation, which consists of the details of all employee that is needed to be filled in the form. The other module called the Product Cost, which has information about the product price. The module called Staff Management, which possess all information about the staff like address, phone number, joining date, permanent address. The other module called the Report, for maintaining the data in a database. The Report Form module has several sub reports of details like Regular details, Shift delivery report, pumps record, cumulative daily report, and salary report. The described record forms are maintained in a database file. The system password for each module has been included to make it secure.      					            The Petrol pump management System is use to maintain their sales detail, employee detail in files and folders. They use to keep the record of petrol and diesel sold, inventory, Customers, etc. in a register. A daily register is maintained to keep track of sales.
+</value>
+  </data>
+</root>

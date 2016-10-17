@@ -1,0 +1,17 @@
+c:\users\chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.home.resources
+c:\users\chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+c:\users\chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Chivate\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Chivate\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Register.resources
+C:\Users\Chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.adminAuth.resources
+C:\Users\Chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ABC_Petrocae.exe
+C:\Users\Chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ABC_Petrocae.pdb
+C:\Users\Chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ABC_Petrocae.exe
+C:\Users\Chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ABC_Petrocae.pdb
+C:\Users\Chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.deleteadminauth.resources
+C:\Users\Chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.attendance.resources
+C:\Users\Chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ABC_Petrocae.exe.config
+C:\Users\Chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.adminview.resources
+C:\Users\Chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.employee.resources
+C:\Users\Chivate\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.viewatt.resources
